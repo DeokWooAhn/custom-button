@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomWindButton">
+        <attr format="reference|integer" name="bg" />
+        <attr format="reference|integer" name="buttonImage" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomFanButton">
+        <attr format="reference|integer" name="fanBg" />
+        <attr format="reference|integer" name="fanButtonImage" />
+        <attr format="reference|string" name="fanText" />
+    </declare-styleable>
+
+</resources>
